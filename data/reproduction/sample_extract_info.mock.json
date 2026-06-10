@@ -1,0 +1,15 @@
+[
+  {
+    "id": "repro-msmarco-1163399",
+    "question": "what day is groundhog's day?",
+    "correct answer": "February 2",
+    "incorrect answer": "March 15",
+    "extract_information": {
+      "Intent": "Date or time information",
+      "Entities": [
+        "Groundhog'S Day"
+      ],
+      "Relations": []
+    }
+  }
+]

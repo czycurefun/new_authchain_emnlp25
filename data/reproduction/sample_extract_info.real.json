@@ -1,0 +1,22 @@
+[
+  {
+    "id": "repro-msmarco-1163399",
+    "question": "what day is groundhog's day?",
+    "correct answer": "February 2",
+    "incorrect answer": "March 15",
+    "extract_information": {
+      "Intent": "Date of holiday",
+      "Entities": [
+        "Groundhog's Day"
+      ],
+      "Relations": [
+        {
+          "Entities": [
+            "Groundhog's Day"
+          ],
+          "Description": "is celebrated on"
+        }
+      ]
+    }
+  }
+]
